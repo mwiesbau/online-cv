@@ -44,7 +44,7 @@ career-profile:
   title: Career Profile
   summary: |
     Highly motivated Software Engineer with international work experience in globally distributed team. Strong team player with good analytical and problem solving abilities.
-    Experience in many areas of the technolgoy spectrum. From network design to machine learning, with experience in maitaining a modern web application.
+    Experience in many areas of the technolgoy spectrum. From network design to machine learning with experience in the development of modern web applications.
 
 education:
   - degree: MSc in Computer Science
@@ -57,7 +57,7 @@ education:
     university: George Mason University
     time: 2016 - 2019
     details: |
-      Relevant coursework including programming languages used below.
+      Relevant coursework including programming languages used.
 
         - CS 437, Software Testing and Maintenance (Java)
         - CS 450, Databases (Java)
@@ -72,28 +72,34 @@ experiences:
     time: 2014 - Present
     company: Dr. Sauer & Partners, Herndon VA
     details: |
-      Development of a monitoring system for heavy civil construction projects using the Django framework, Docker, Ansible, and TravisCI to run application in the cloud. 
+      Development of a cloud based monitoring system for heavy civil construction projects. Ingestion, Evaluation and Reporting of monitoring data in near real time.
 
-        - Bullet point
-        - Bullet point 
+        - Development of UI using the REACT Javascript framework.
+        - Development of Backend in Python using Django Framework with Postgres and Redis.
+        - Containerization of Stack using Docker and deployment to cloud
+        - Using Ansible to automate deployment and testing
+        - Design and Development of REST Api to interact with UI and other Services
+        - Writing technical documentation in Sphinx
+        - User Support
+        - Backup Administration
+        - Infrastructure Maintenance and Improvements
 
   - role: Systems Engineer
     time: 2010 - 2014
     company: Dr. Sauer & Partners, Herndon VA
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
 
-        - Planing n
-        - Bullet point
+      - Virtualization of all Servers in three locations using VMWare VSphere and ESXi
+      - Technology Refresh to server 2008R2 in all locations
+      - User Support
+      - Migrating backup infrastructure to VEEAM.
+      - Design and Development of inhouse business reporting tools using Python and Flask
 
   - role: Geotechnical Monitoring Specialist, IT Manager
     time: 2007 - 2010
     company: Dr. Sauer Corporation, Herndon VA
     details: |
+      - User Support
       - Planning and setup of VoIP system
       - Implementation of global Active Directory
       - Design and Implementation of global VPN
