@@ -145,17 +145,17 @@ publications:
     bibendum fringilla a eu lectus.
 
   papers:
-    - title: The Art of Computer Programming
-      authors: Donald E. Knuth
-      conference: Addison-Wesley, 1968
+    - title: A Resilient, Secure, and Efficient IoT Stack for Tunnel Construction Monitoring in Urban Environments
+      authors: Mathias Wiesbauer
+      conference: Research Proposal
 
-    - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-      authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-      conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+    - title: Stock Movement Prediction and Trading
+      authors: Mathias Wiesbauer
+      conference: Project Report
 
-    - title: A syntax directed compiler for Algol 60
-      authors: Edgar T. Irons
-      conference: "Comm. ACM 4 (1961), 51–55"
+    - title: "The benefits of GraphQL for more efficient APIs: A better version of REST"
+      authors: Mathias Wiesbauer
+      conference: Whitepaper
 
 skills:
   title: Skills &amp; Proficiency
