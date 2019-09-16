@@ -109,40 +109,38 @@ experiences:
         - Bullet point
         - Bullet point
 
-projects:
-  title: Projects
-  intro: >
-    You can list your side projects or open source libraries in this
-    section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-
-  assignments:
-    - title: Velocity
-      link: "#hook"
-      tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-    - title: DevStudio
-      link: "#"
-      tagline: "A responsive website template designed to help web developers/designers market their services."
-
-    - title: Tempo
-      link: "#"
-      tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-    - title: Atom
-      link: "#"
-      tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-    - title: Delta
-      link: "#"
-      tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+#projects:
+#  title: Projects
+#  intro: >
+#    You can list your side projects or open source libraries in this
+#    section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#    Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#
+#  assignments:
+#    - title: Velocity
+#      link: "#hook"
+#      tagline: "A responsive website template designed to help startups promote, #market and sell their products."
+#
+#    - title: DevStudio
+#      link: "#"
+#      tagline: "A responsive website template designed to help web developers/#designers market their services."
+#
+#    - title: Tempo
+#      link: "#"
+#      tagline: "A responsive website template designed to help startups promote #their products or services and to attract users &amp; investors"
+#
+#    - title: Atom
+#      link: "#"
+#      tagline: "A comprehensive website template solution for startups/developers to #market their mobile apps."
+#
+#    - title: Delta
+#      link: "#"
+#      tagline: "A responsive Bootstrap one page theme designed to help app #developers promote their mobile apps"
 
 publications:
   title: Publications
   intro: |
-    You can list your publications in this section. Lorem ipsum dolor sit
-    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    bibendum fringilla a eu lectus.
+    The publications below were created as part of the coursework.
 
   papers:
     - title: A Resilient, Secure, and Efficient IoT Stack for Tunnel Construction Monitoring in Urban Environments
@@ -164,17 +162,17 @@ skills:
     - name: Python & Django
       level: 90%
 
-    - name: Javascript & jQuery
-      level: 98%
+    - name: Java
+      level: 90%
 
     - name: React
       level: 60%
 
-    - name: HTML5 & CSS
-      level: 95%
+    - name: Docker
+      level: 70%
 
-    - name: Ruby on Rails
-      level: 85%
+    - name: GIT
+      level: 80%
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
