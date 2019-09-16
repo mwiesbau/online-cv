@@ -44,7 +44,7 @@ career-profile:
   title: Career Profile
   summary: |
     Highly motivated Software Engineer with international work experience in globally distributed team. Strong team player with good analytical and problem solving abilities.
-    Experience in a wide variety of the technolgoy spectrum. From network design to machine learning. With experience in maitaining a modern web application stack.
+    Experience in many areas of the technolgoy spectrum. From network design to machine learning, with experience in maitaining a modern web application.
 
 education:
   - degree: MSc in Computer Science
@@ -87,18 +87,17 @@ experiences:
       nascetur ridiculus mus. Donec quam felis, ultricies nec,
       pellentesque eu, pretium quis, sem.
 
-        - Bullet point
+        - Planing n
         - Bullet point
 
   - role: Geotechnical Monitoring Specialist, IT Manager
     time: 2007 - 2010
     company: Dr. Sauer Corporation, Herndon VA
     details: |
-
-      - Setting up VoIP system
+      - Planning and setup of VoIP system
       - Implementation of global Active Directory
-      - Configuration of global VPN
-      - 
+      - Design and Implementation of global VPN
+      - Production of Engineering Drawings in Autocad      
 
 #projects:
 #  title: Projects
@@ -138,11 +137,11 @@ publications:
       authors: Mathias Wiesbauer
       conference: Research Proposal
 
-    - title: Stock Movement Prediction and Trading
+    - title: <a href="/online-cv/assets/3_report.pdf">Stock Movement Prediction and Trading</a>
       authors: Mathias Wiesbauer
       conference: Project Report
 
-    - title: "The benefits of GraphQL for more efficient APIs: A better version of REST"
+    - title: <a href="/online-cv/assets/4_whitepaper.pdf">The benefits of GraphQL for more efficient APIs. A better version of REST</a>
       authors: Mathias Wiesbauer
       conference: Whitepaper
 
