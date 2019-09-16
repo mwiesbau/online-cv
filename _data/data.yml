@@ -43,40 +43,27 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-
-    Second paragraph if required.
 
 education:
   - degree: MSc in Computer Science
     university: George Mason University
     time: 2019 - ongoing
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-
-        - Bullet point
-        - Bullet point 
+      - CS 583, Algorithm Analysis
 
   - degree: BSc in Computer Science
     university: George Mason University
     time: 2016 - 2019
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
+      Relevant coursework including programming languages used below.
 
-        - Bullet point
-        - Bullet point 
+        - CS 437, Software Testing and Maintenance (Java)
+        - CS 450, Databases (Java)
+        - CS 463, Comparative Programming Languages (Lisp, Haskell, Ruby, ..)
+        - CS 475, Concurrent and Distributed Systems (Java)
+        - CS 483, Algorithm Analysis
+        - CS 484, Machine Learning (Python)
+        - CS 555, Graduate course in networking (Java, C, Python)
 
 experiences:
   - role: Lead Developer
