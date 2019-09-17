@@ -51,6 +51,7 @@ education:
     university: George Mason University
     time: 2019 - ongoing
     details: |
+      - CS 555, Graduate course in networking (Java, C, Python)
       - CS 583, Graduate course in Algorithm Analysis
 
   - degree: BSc in Computer Science
@@ -65,45 +66,44 @@ education:
         - CS 475, Concurrent and Distributed Systems (Java)
         - CS 483, Algorithm Analysis
         - CS 484, Machine Learning (Python)
-        - CS 555, Graduate course in networking (Java, C, Python)
 
 experiences:
   - role: Software Engineer, Systems Engineer
     time: 2014 - Present
     company: Dr. Sauer & Partners, Herndon VA
     details: |
-      Development of a cloud based monitoring system for heavy civil construction projects. Ingestion, Evaluation and Reporting of monitoring data in near real time.
+      Development of a cloud based monitoring system for heavy civil construction projects.
 
+        - Containerization of stack using Docker and automated deployment to cloud using Ansible
         - Development of UI using the REACT Javascript framework.
-        - Development of Backend in Python using Django Framework with Postgres and Redis.
-        - Containerization of Stack using Docker and deployment to cloud
-        - Using Ansible to automate deployment and testing
-        - Design and Development of REST Api to interact with UI and other Services
-        - Writing technical documentation in Sphinx
-        - User Support
+        - Development of backend in Python using Django Framework with Postgres and Redis.
+        - Design and development of REST API to interact with UI and other Services
+        - Writing technical documentation in Sphinx        
         - Backup Administration
-        - Infrastructure Maintenance and Improvements
+        - Infrastructure maintenance and improvements
+        - User support
 
   - role: Systems Engineer
     time: 2010 - 2014
     company: Dr. Sauer & Partners, Herndon VA
     details: |
 
-      - Virtualization of all Servers in three locations using VMWare VSphere and ESXi
-      - Technology Refresh to server 2008R2 in all locations
-      - User Support
-      - Migrating backup infrastructure to VEEAM.
+      - Planning and implementation of server virtualization in all office locations.
+      - Technology refresh to Windows Serverr 2008R2 in all office locations
       - Design and Development of inhouse business reporting tools using Python and Flask
+      - Migrating backup infrastructure to VEEAM.
+      - User Support
 
   - role: Geotechnical Monitoring Specialist, IT Manager
     time: 2007 - 2010
     company: Dr. Sauer Corporation, Herndon VA
     details: |
-      - User Support
-      - Planning and setup of VoIP system
+
+      - Design and Implementation of global VPN infrastructure
       - Implementation of global Active Directory
-      - Design and Implementation of global VPN
+      - Planning and setup of VoIP system (Asterisk)
       - Production of Engineering Drawings in Autocad      
+      - User Support
 
 #projects:
 #  title: Projects
@@ -139,10 +139,6 @@ publications:
     The publications below were created as part of the undergraduate and graduate coursework.
 
   papers:
-    - title: A Resilient, Secure, and Efficient IoT Stack for Tunnel Construction Monitoring in Urban Environments
-      authors: Mathias Wiesbauer
-      conference: Research Proposal
-
     - title: <a href="/online-cv/assets/3_report.pdf">Stock Movement Prediction and Trading</a>
       authors: Mathias Wiesbauer
       conference: Project Report
